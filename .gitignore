@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+database/recoverai.db
+data/models/*.pkl
+data/models/*.json
+data/raw/*.csv
+data/processed/*.csv
+outputs/audit_logs/*
+outputs/reports/*
+outputs/charts/*
+.streamlit/
+.DS_Store
